@@ -1,11 +1,6 @@
 # jpa02-xxzjh
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f22/jpa02-cgaucho
-
-Repo: https://ucsb-cs156-f22/STARTER-jpa02
+Repo: https://github.com/ucsb-cs156-f22/jpa02-xxzjh.git
 
 * TODO: Correct the links to app on Heroku below, 
   then delete this TODO.  Replace it with 
