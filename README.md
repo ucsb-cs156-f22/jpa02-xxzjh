@@ -2,12 +2,6 @@
 
 Repo: https://github.com/ucsb-cs156-f22/jpa02-xxzjh
 
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://cs156-f22-jpa02-cgaucho.herokuapp.com
-
-
 On Heroku: https://jpa02-jinghanzhang.herokuapp.com
 
 
