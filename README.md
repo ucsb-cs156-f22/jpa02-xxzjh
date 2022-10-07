@@ -1,6 +1,6 @@
 # jpa02-xxzjh
 
-Repo: https://github.com/ucsb-cs156-f22/jpa02-xxzjh.git
+Repo: https://github.com/ucsb-cs156-f22/jpa02-xxzjh
 
 * TODO: Correct the links to app on Heroku below, 
   then delete this TODO.  Replace it with 
