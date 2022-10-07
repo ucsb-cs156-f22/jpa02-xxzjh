@@ -13,7 +13,7 @@ Repo: https://ucsb-cs156-f22/STARTER-jpa02
   https://cs156-f22-jpa02-cgaucho.herokuapp.com
 
 
-On Heroku: https://cs156-f22-jpa02-cgaucho.herokuapp.com
+On Heroku: https://cs156-f22-jpa02-jinghanzhang.herokuapp.com
 
 
 # About this repo
